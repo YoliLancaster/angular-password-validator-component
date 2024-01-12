@@ -1,0 +1,1 @@
+# angular-password-validator-component
